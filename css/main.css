@@ -84,7 +84,7 @@ main {
 .faq-card::before {
     display: block;
     content: "";
-    background-image: url(/images/illustration-woman-online-mobile.svg), url(/images/bg-pattern-mobile.svg);
+    background-image: url(../images/illustration-woman-online-mobile.svg), url(../images/bg-pattern-mobile.svg);
     background-repeat: no-repeat;
     background-position: center top, center bottom;
     width: 16rem;
@@ -194,7 +194,7 @@ p {
     }
 
     .faq-card::before {
-        background-image: url(/images/illustration-box-desktop.svg);
+        background-image: url(../images/illustration-box-desktop.svg);
         background-size: 13rem auto;
         width: 8rem;
         height: 8rem;
@@ -206,7 +206,7 @@ p {
     .faq-card {
         padding: 4rem 6rem 5rem 33rem;
         margin: 0 0 0 0;
-        background-image: url(/images/illustration-woman-online-desktop.svg), url(/images/bg-pattern-desktop.svg);
+        background-image: url(../images/illustration-woman-online-desktop.svg), url(../images/bg-pattern-desktop.svg);
         background-repeat: no-repeat;
         background-position: -15% center;
         background-size: 30rem auto;
